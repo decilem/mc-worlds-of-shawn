@@ -1,4 +1,4 @@
-# Minecraft World Created by a 5 years old boy
+# Minecraft World Backups
 
 The world path is ``\games\com.mojang\minecraftWorlds\``
 
