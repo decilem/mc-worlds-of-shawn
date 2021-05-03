@@ -7,7 +7,7 @@ mp_xboxlive_visible:1
 mp_nex_visible:1
 mp_psn_visible:1
 game_language:
-game_skintypefull:5eb65f73-af11-448e-82aa-1b7b165316ad_persona-54e24a06f577e087-0
+game_skintypefull:5eb65f73-af11-448e-82aa-1b7b165316ad_persona-29d34dda2581b6c6-11
 game_lastcustomskinnew:Standard.Dummy
 game_recentskin1:c18e65aa-7b21-4637-9b63-8ad63622ef01_Steve
 game_recentskin2:
@@ -99,11 +99,11 @@ old_game_version_patch:201
 old_game_version_revision:1
 old_game_version_beta:0
 realms_show_friend_invites_only:0
-number_of_owned_realms:1
+number_of_owned_realms:0
 number_of_friends_realms:0
-realms_view_upsell_screen_count:1
+realms_view_upsell_screen_count:-1
 shown_ratings_prompt:0
-save_and_quit_count:111
+save_and_quit_count:115
 show_worlds_trial_button:1
 allow_cellular_data:0
 auto_update_mode:1
@@ -138,7 +138,7 @@ ctrl_togglecrouch_touch:1
 ctrl_togglecrouch_gamepad:0
 ctrl_togglecrouch_motioncontroller:0
 crossplatform_toggle:1
-last_xuid:2535455903850363
+last_xuid:2535443597163106
 gfx_hidepaperdoll:1
 hide_keyboard_tooltips:1
 hide_keyboard_tooltips_overridden:0
@@ -186,7 +186,7 @@ content_log_gui:0
 gameplay_tips_enabled:0
 gameplay_tips_should_be_shown:1
 iap_owning_account:
-last_minecraft_id:54E24A06F577E087
+last_minecraft_id:29D34DDA2581B6C6
 control_tips_should_be_shown:1
 inventory_tips_should_be_shown:0
 tree_tips_should_be_shown:1
