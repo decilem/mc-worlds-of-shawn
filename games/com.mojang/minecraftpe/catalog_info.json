@@ -6970,9 +6970,15 @@
       }
    },
    "2535443597163106" : {
-      "last_fetched_personaOffer" : "2021-05-03",
-      "last_fetched_storeOffer" : "2021-05-03",
+      "last_fetched_personaOffer" : "2021-05-20",
+      "last_fetched_storeOffer" : "2021-05-23",
+      "last_seen_patch_notes_revision" : "1.16.22001",
       "newProductInfoList" : {
+         "001f572a-a070-4ee5-8584-63e52c79c60e" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "0259951f-b81f-4068-9b1c-db712cb2510b" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7003,6 +7009,11 @@
          },
          "0468c61c-f975-4698-bd59-7f0acb84d14f" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "04aefed5-1cfc-4bf9-88eb-7a71f7c5e4dd" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -7062,6 +7073,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "08449ca8-2085-4f25-b5f0-8dfba4297565" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "085609b4-5d68-480d-b3a8-84dbc5a8ca9a" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7070,6 +7086,17 @@
          },
          "08eef6f6-56ac-47a0-8f3d-c13ae3f89f26" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "08fbd09e-5b16-4bf9-b205-e37bd4c19d02" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_feet"
+         },
+         "096333f9-0d3e-4104-9ab6-aa47a9252066" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -7091,6 +7118,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "0a553985-e4bd-44ff-98da-e1b9f0ee9e3c" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "0b0c734b-f92e-4994-b5c8-98798b8f80b7" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7107,6 +7139,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
          },
+         "0bc7c63f-df1e-49d3-81e2-c3834077d114" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "0c0b06e5-f921-4e3d-910c-5465016b7e69" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7118,8 +7155,18 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "0c936b13-abc4-45b7-85fd-c8ffc140cd42" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "0ce95199-1ef0-4332-9f99-106362a61955" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "0ddc95d4-1088-4151-9c84-20ce99ef2793" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -7178,6 +7225,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
+         },
+         "10dfbb7d-349a-4d3d-aa3c-f3c4eea6292b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "1163391f-5013-4ca6-9aa8-5936af812bae" : {
             "date" : "2021-05-02",
@@ -7264,6 +7316,27 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "158585be-9e98-4d1d-b04e-880e1818f2d4" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "162165db-b7e4-46bd-a448-61befb2d30f7" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "169a2940-1a7e-4af1-8eec-d0b232e34bfe" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "176cba8f-e0ce-490b-94af-d4931e7eb768" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_head"
+         },
          "179bf001-6c19-4f52-8a9e-76aabf27efe1" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7279,6 +7352,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
+         },
+         "1960d733-32f5-4ce4-9eb9-0ea22ab82bbd" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "1974bc96-7d06-4edb-bacc-fb3fed6ad6ce" : {
             "date" : "2021-05-02",
@@ -7331,6 +7409,11 @@
          },
          "1b58a7d5-de54-497b-89bd-8d9988347ee2" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "1bac9727-fccc-42a8-9903-0b514d18a601" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -7392,6 +7475,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "1dd44ec0-89fe-4844-b8fb-e801342ee37c" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "1ddfc2b0-4bb9-4657-9d0b-139d2c488866" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7425,6 +7513,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "210539aa-2a20-4da3-b816-c1bb40fc489f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "212fbce8-9fd6-4d7e-a402-e5dc8ed4f1be" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7448,6 +7541,16 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
          },
+         "23cd4034-16b2-4801-b45b-1c677b235d32" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "23f37bc6-4210-4f32-aeea-936e112a2cfd" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "240ac000-586b-40f3-9427-9cfcd43f2057" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7468,6 +7571,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_arms"
+         },
+         "2589e7af-0f37-4cec-8bce-d78a9d4c0c32" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "25a85c72-233a-4dc2-8d79-b4d646c21af5" : {
             "date" : "2021-05-02",
@@ -7495,6 +7603,16 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "26f1cf91-77c1-4174-97a6-434dff10bf37" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "2726aafb-c50b-4d6d-a782-879b796861a7" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "2770b29b-56c8-4697-9e58-ba93ac82209f" : {
             "date" : "2021-05-02",
@@ -7639,11 +7757,26 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "3170d67b-d675-43d4-b958-344cf3a43ac7" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "3189f6a5-ad72-4a35-8658-17234533223a" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "32b51de8-1140-47cc-b496-546655c8c904" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "334fac1a-2919-432a-85ae-7b294631ade8" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "335a0204-2cd3-4eac-96d0-4d899f6cc690" : {
             "date" : "2021-05-02",
@@ -7672,6 +7805,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
          },
+         "35901f07-fe2a-4f2f-a509-9052207aee3b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "35a95973-0623-493c-8111-70260fbe51ff" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7694,6 +7832,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
+         },
+         "3704886b-76dd-4c28-b3d4-16a8e428fb10" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "37b1fdb2-4fdc-48d0-888e-785733d7a0e8" : {
             "date" : "2021-05-02",
@@ -7739,6 +7882,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "3a0e802e-629e-4182-8a8c-c5b357760326" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "3a24df40-b426-4702-8fe4-1ada01adac77" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7752,6 +7900,11 @@
          },
          "3af72cf6-400e-4d20-a563-a8df7f5bf85c" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "3b03b75f-c685-41d8-a5b7-25c151171c5f" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -7783,6 +7936,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "3d4faf51-d46b-40bf-8085-dc7d608426e5" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "3d7ed1a0-43c3-499d-adfe-984b65eeb346" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7805,6 +7963,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "3e60c767-294a-4577-a9ad-64cd359ac55f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "3e7272bd-2a19-46e9-be0c-c50ad54d53f0" : {
             "date" : "2021-05-02",
@@ -7833,11 +7996,23 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_back"
          },
+         "4065f48b-ab14-42e0-af32-ccc5609b4ac6" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_hand"
+         },
          "415a44d2-9789-4141-bfdf-ac172c4c8cd9" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
+         },
+         "41dc3769-dfaa-4aee-b13b-e83d0a41c29b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_bottom"
          },
          "41ef6de7-a147-43c9-b248-8058a33328b0" : {
             "date" : "2021-05-02",
@@ -7856,11 +8031,26 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "42c94035-06ae-46f7-a5c2-fc576c14949f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "42d3f30c-de10-426f-b808-72910fffad8a" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "436d7a48-7364-4374-922c-c20991f916d3" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "43780df6-830f-4937-bb99-47168230d4bd" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "4481933a-aa88-46ee-8e07-68a92a9997e2" : {
             "date" : "2021-05-02",
@@ -7928,11 +8118,21 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "4920f688-6f20-4d4d-9f96-82f855d277ff" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "49e93365-1a84-4442-a3a8-0f93a17cf942" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
+         },
+         "49f7a72d-1000-499e-b5ef-cb5aa5eaa0d4" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "4a18874d-3b73-4b99-b187-305c23228dbe" : {
             "date" : "2021-05-02",
@@ -7962,6 +8162,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "4c6eb5a5-7281-4793-9b09-069492801373" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "4d0ef98b-6611-4e95-8ae1-c240b08c1196" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -7978,6 +8183,12 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "4f7e3085-2b76-483e-9649-94ba7a731047" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_top"
          },
          "4f80da97-1c23-4bd0-ab6d-688d9fdefb9e" : {
             "date" : "2021-05-02",
@@ -8000,6 +8211,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "50aad02b-15a6-4bed-a730-cffb67fe7bc1" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "50e60c48-89cf-48ec-b4f3-d03f2423d476" : {
             "date" : "2021-05-02",
@@ -8077,6 +8293,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "581e40cc-ad1b-4170-83a5-75878317dd9b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "58205a15-c261-4c5f-a0a2-6d5e460044f6" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8089,8 +8310,18 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
          },
+         "582c1f0b-872e-44ac-922a-22161e1e6b6f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "5844a699-6418-4713-b4c7-7db26cf8a169" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "584d3e7a-0b33-43ed-bb54-bd0ea5dc0de2" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8104,11 +8335,26 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "593b49d0-2464-40bb-b7db-273fc59aaa78" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "5962b5ef-be03-4b06-83bc-6af6d0990ae4" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "596431e9-42ea-430b-a964-081533d9a904" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "598068f6-569f-4130-8181-ef4b61eebc51" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "59d80a7c-fb01-4e5c-bd6f-de1b5fe0b39a" : {
             "date" : "2021-05-02",
@@ -8149,6 +8395,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "5c70cadc-8763-4fc6-b295-6c58996a5ba2" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "5cbb6d7a-c425-4454-9b25-c360bf66be1c" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8169,6 +8420,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_feet"
+         },
+         "5e5858d4-fd28-4827-9739-666f9a737851" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "5ef9864c-d979-4c01-82e6-3685a12f9776" : {
             "date" : "2021-05-02",
@@ -8252,6 +8508,16 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
          },
+         "62d0f35a-1412-4012-86ad-cba1c0d18dac" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "635eb764-8fb2-4d52-96d3-afd327f2f2c1" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "63a90933-8726-4b3c-a671-47179e06169e" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8260,6 +8526,11 @@
          },
          "647fce81-8df1-4ba3-9d98-02f6a65ec8c7" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "64a464c1-c608-4b50-9f32-a65123c2838f" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8280,6 +8551,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "66d70e80-1a0d-449e-9911-f66e792a83b7" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "66df93a9-7a1d-42e9-9e2e-65258553b7e9" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8294,6 +8570,11 @@
          },
          "676fe5e7-eb23-4f1a-ae6d-7954b72cb78a" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "67bff96a-df42-45d2-8c4f-445366c4f4e5" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8326,6 +8607,21 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "6892fedb-7c6a-409f-9ec3-c0ebbdc55b9f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "68acca80-6ebb-401a-b2a8-c65226c560df" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "68debdea-046d-4bea-a4bd-fefcccf90306" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "69f7f792-b756-492b-9868-a6a95ceeb3bb" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8352,6 +8648,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_emote"
          },
+         "6bcced56-5804-4bba-a53a-4be0d81fc1f2" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "6bdd48eb-05a7-465c-9e5a-9f66ba892543" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8365,6 +8666,16 @@
          },
          "6c35bd38-7018-4cd6-a5ed-3869a8932cfd" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "6caa958c-4cf9-44b4-bc43-e12359546c5a" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "6d0258a4-c3e4-4a91-b209-8c4bd0ef252c" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8491,6 +8802,16 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "77c7029d-546e-4f91-9f7d-c118e3bac5f6" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "77fed2b8-c46c-4ea5-954f-1f726df86208" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "78214f4b-868d-4d2b-9f67-bf97e4bf80eb" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8508,6 +8829,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_back"
+         },
+         "78fd229c-6be7-429d-a9bb-3ea7e1411448" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "79774835-7603-42b2-b40a-5eea8cb6f80a" : {
             "date" : "2021-05-02",
@@ -8542,6 +8868,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
          },
+         "7b080085-0c3a-4556-85d5-56f6e02bdc09" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "7b391e9e-a6fa-4d40-91f2-74bdb9bc060f" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8562,6 +8893,11 @@
          },
          "7b7e6a5e-7978-4be0-b6e7-5469ffa3b959" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "7b9f2215-be27-4bc7-8364-38c875ead8a7" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8623,11 +8959,21 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "7e70b949-36ab-48a4-8dc8-4cbdb8e489b5" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "7efc4040-b528-464a-95b4-38ec670cdc68" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_arms"
+         },
+         "7f183f4c-f471-4755-a097-b8fccc5c3371" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "7f1a31c9-a676-435b-8fbc-ecf2e84274f3" : {
             "date" : "2021-05-02",
@@ -8659,6 +9005,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
          },
+         "809fe5c7-a7b0-42ff-a34b-74cd1958def1" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "80d61a14-851b-40a7-a42c-a027a62a343c" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8686,6 +9037,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
          },
+         "831658f0-4093-4153-aef0-3e1395afa6f8" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "836446d4-fd5c-4d0a-9ae0-bd943c687a81" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8707,6 +9063,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "846df045-4788-4877-8fb4-658c4094e227" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "848f7edd-6549-4b21-bf2d-4b7c58fa3563" : {
             "date" : "2021-05-02",
@@ -8741,8 +9102,28 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "8771ad78-feb1-4ba9-b8ff-7b04c0cf4e2a" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "877e84a0-c9cc-4289-a256-65688b4047f1" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "88122707-10cc-4804-b4bc-00102eedd4ae" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "886750b2-7915-4a84-b9dd-05de253426fb" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "893b1d08-c847-4d46-bb93-25e6f6b1a8e2" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8751,6 +9132,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "89564016-2c4a-4305-b762-5257da6050b0" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "8a367c64-6bde-4ffe-a4b5-c750ec4b948e" : {
             "date" : "2021-05-02",
@@ -8771,6 +9157,11 @@
          },
          "8ab587bd-b9ea-41ae-84f1-0567a92fd8f7" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "8ad6eafc-a04e-49e6-8a0d-b60f7e93e6e2" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8808,6 +9199,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "8cb9baa5-efd0-4b01-a47c-5368da77e5f2" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "8d5a1dd3-4e84-4c88-b5a8-e36bfa987549" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8824,6 +9220,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "8ee05164-1daa-48b9-8ba3-3f7932c09b4e" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "8ef51160-1751-4641-8f29-22a8d08009cc" : {
             "date" : "2021-05-02",
@@ -8874,6 +9275,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "93118fd9-d542-4fd3-8171-1b165ac970a2" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "9351e6cf-ede3-4e23-a3b3-cd41ca4b15d8" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8907,6 +9313,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_bottom"
          },
+         "9523c5c5-82fb-4ceb-b217-03b24f6cea41" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "95377f31-f56b-42ee-a7d1-f515a17534fa" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -8914,6 +9325,11 @@
          },
          "95502a31-148a-44db-99d3-b240e0b4e669" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "9581cef0-df92-46b2-993c-43564b9f998f" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8927,8 +9343,18 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "95a9b938-15f6-4dac-b6c8-2f59c9b31fbf" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "95bcbf0e-0656-45b8-838d-6050348104d8" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "95cc325c-8a8d-4871-9042-e91d11cf7ac3" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -8945,6 +9371,12 @@
          },
          "976e7a61-77e8-4f2f-808d-44d69a2c0572" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_top"
+         },
+         "978663a4-def6-4281-a7e7-d986ba370648" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
@@ -8974,6 +9406,16 @@
          },
          "98fc0e66-0d98-4dc3-a678-dd1b35fdcbc9" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "9910086f-18af-4fec-81b8-c5f6ce8e7dde" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "99dce8e5-1459-4a0a-8b08-828fd1570169" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9026,6 +9468,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
          },
+         "9d97c979-0947-4ec8-bb2c-ce828e254879" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "9dd51103-fcab-4c3a-9dc2-e1afe02efa5d" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9034,6 +9481,11 @@
          },
          "9dd96214-c241-4d10-92f6-9d6a24fc2a9f" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "9e090934-119b-4273-b127-cf9cfd7d6061" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9051,6 +9503,16 @@
          },
          "9edc4b7b-91da-4318-898c-3407fd443477" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "9f26a891-075e-4fb6-a163-2afdd04b2c5e" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "a0634144-7261-4311-89c8-b65028a9be66" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9126,6 +9588,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
          },
+         "a2dbc2e8-d08a-4bfb-96ce-bec2bfabb72a" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "a2e641d1-ba62-4853-8312-2c780f297dc4" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9154,6 +9621,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
          },
+         "a557f290-7292-45d1-ade7-f012ed4e0f63" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "a5c70b22-ad8a-4e9f-b6f6-fbe3c8adfef8" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9181,6 +9653,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "a755dc20-e793-46ae-9495-1f6722a7f749" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "a80d339c-b6cd-4cfa-9894-d0a746afdafe" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9203,14 +9680,29 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
          },
+         "a92ac8c7-07e6-4591-92e0-4ff4d922832b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "a9453a52-e4f0-4b97-b6fa-43a1fcb69a77" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_feet"
          },
+         "a94e4367-dd89-4cfb-900a-58489e29943e" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "aa3f1a98-b4db-4164-be88-af5bb16e8b36" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "aa4c0b81-b97b-4573-a309-1c244b5a8ff7" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9225,6 +9717,21 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "aa9f5024-333a-4323-b69e-5fd6657fc81c" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "aad9ed84-1fa7-48ec-b006-6d1bb57d039c" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "aaf7f821-ccee-4806-93c8-2f99b2330933" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "ab4dc206-e552-43e5-bc9b-9921ba160ee0" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9235,6 +9742,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "ac385e37-5b4a-49a0-a491-c6822350de36" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "ac3b3ca0-3b83-415d-ae64-e5f37b722760" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9242,6 +9754,16 @@
          },
          "aca98bd2-b076-485f-b93e-dc90ec9f6bcd" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "ad629c85-43ee-4e68-a18c-d39ceb6658f3" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "adbf1f23-6964-4154-bc82-0c78f09ed9d2" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9272,8 +9794,23 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "aee908cc-7df3-4e15-b539-5b76fcb73447" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "af25ae97-e61f-488d-b938-d16a87647979" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "afb7bab3-1b25-4888-9347-23dcfaed93b5" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "afd64eae-18b2-42b0-84cd-8804c6676451" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9287,6 +9824,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_legs"
+         },
+         "b057496b-4f06-4a1f-83f3-d57330f470af" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "b08e9832-042b-4c3d-bb38-81dfd2fafa81" : {
             "date" : "2021-05-02",
@@ -9335,8 +9877,18 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_feet"
          },
+         "b2ec4d83-2f32-4eb4-a7ca-a9b3ce9db10c" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "b3485f4c-22db-46d5-98ce-e4b484e4fcad" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "b34b9c1f-6a44-4ec2-a852-c0b09ded2b55" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9374,6 +9926,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_arms"
          },
+         "b48ed588-66d1-461b-aec2-561fb5742709" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "b4b3f0e2-caf2-4d29-a2e3-a998afdd4778" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9387,6 +9944,11 @@
          },
          "b5ddbdaf-3522-4aff-b629-296d64c723a7" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "b608f802-a756-47f6-814e-7cadd60f5cd5" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9406,6 +9968,17 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
          },
+         "b7b3845f-5eeb-404d-a52f-fd9a52b6bcde" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_feet"
+         },
+         "b838d282-3159-4de6-a654-40437c923144" : {
+            "date" : "2021-05-06",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "b83ad0c8-c161-4f91-9c86-5410a0df3c46" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9417,6 +9990,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_emote"
+         },
+         "b91ac1f3-1b80-492d-9a50-9f7c26fe14ca" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "b9251954-9d43-4568-a062-04221dfba0f8" : {
             "date" : "2021-05-02",
@@ -9447,6 +10025,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_arms"
+         },
+         "baa1cacc-76fb-4c08-849c-9b2634c11546" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "bab0f77e-9e8a-4f36-88c1-b70827ef68af" : {
             "date" : "2021-05-02",
@@ -9493,11 +10076,26 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
          },
+         "bc2b4fc4-b84a-4643-99c2-1acabf240c66" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "bc3dfafd-6720-4de7-8655-455827455bc5" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "bca5e6ff-2999-4379-aaa1-31b415b66a6b" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
+         },
+         "bd19fd50-a095-44e7-8ee1-cf91d240954d" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "bd1f4e24-3ebc-4d62-a560-e23fa373dea8" : {
             "date" : "2021-05-02",
@@ -9517,6 +10115,11 @@
          },
          "bdaead7b-f9a7-4b58-bf98-a2df66578501" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "bdb2afcb-292b-4763-a027-eda627231c96" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9549,6 +10152,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "bf2d44f6-cfec-478d-b58c-677394f75436" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "bfdf6150-c0a9-4256-9fe1-b6eabe927b7a" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9578,6 +10186,11 @@
          },
          "c20ede4c-9c42-42dc-b3f6-b541047356d1" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "c2af870e-baad-422f-a05f-3f57697eb465" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9618,6 +10231,11 @@
          },
          "c4835068-de6f-4bef-b7ca-7048b711fda6" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "c506da32-5bca-4dac-89fa-2fbc8d71b04c" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9697,11 +10315,27 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_face_accessory"
          },
+         "caf400fc-f8c7-444f-9223-5536be47205e" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "cb441e4d-97a2-4c07-8049-cf876550e606" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "cbc6ea76-a305-42c7-9b1a-315ab8ef5b06" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "ccc7f11b-d8df-4ad7-9010-59899950fc4d" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_hand"
          },
          "cd443919-9509-41e0-bc48-43c1691df108" : {
             "date" : "2021-05-02",
@@ -9741,6 +10375,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_hand"
          },
+         "ceeddc84-0396-4ef7-9308-e9c3fece3c00" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "cf4152e4-af86-4e45-aa1b-ec6e766a2c6d" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9763,6 +10402,21 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "d0a904db-2f2a-4f96-bed1-ae68cac4b245" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "d0d24175-81b2-4fe1-a390-0f0d88959c8d" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "d13c6db4-5bfb-410b-aede-0fe4600e160b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "d167f760-73c0-4de4-8da3-f64b22af64d3" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9775,6 +10429,11 @@
          },
          "d1a599f8-4dfc-471a-8f7b-d0febac84c75" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "d1e7d1ae-4bf6-4d9c-bd20-3b7e96ec90ae" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9806,6 +10465,16 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "d3c1bb35-431e-4bde-a5b8-d7de9af22e0f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "d3caf2fb-8ba0-4545-9e4b-3d91b2bd6931" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "d42d9195-43d8-464a-8f66-d21ed13065d2" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9813,6 +10482,11 @@
          },
          "d4340449-8c8f-4afc-abd1-8c25bcdf77e7" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "d4bd027d-420c-44ad-a8e2-cd43f3e30aee" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9848,6 +10522,16 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "d721bd4e-4664-45e6-82f8-10b0b46e485f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "d763896e-f5c8-425d-bb81-ef3c417272de" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "d7a042bd-32e2-41fe-abd9-44bba62e768b" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9859,6 +10543,16 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_feet"
+         },
+         "d8a77fc1-6016-4703-bee0-7ab3b38af48b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "d8be7199-44ca-4a38-8d02-a3fe2a50b8c2" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "da0fab42-b4f8-48fc-9b2a-a2b8165175bc" : {
             "date" : "2021-05-02",
@@ -9882,6 +10576,11 @@
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_outerwear"
+         },
+         "dbff265e-5ee4-4fec-87ee-ca52c50b05c8" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "dc1d83a3-b633-43f8-8d8e-41978c54612a" : {
             "date" : "2021-05-02",
@@ -9912,6 +10611,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "de9a50c1-c3d5-435c-9681-3efb13f8e3bb" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "ded15253-fef5-4b8f-9404-649c10047eaf" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9930,6 +10634,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_hand"
          },
+         "df7704d6-8e60-45d5-a2d2-6cc2baa50c25" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "df78ce22-dc05-44ff-aa9e-5d258f98cb3e" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9938,6 +10647,16 @@
          },
          "dfb8b719-1466-4a5c-b0d0-67fb166f4430" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "e0810cc3-801d-41c4-bd0f-c5dade20b374" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "e119c987-823b-4efe-a513-f4c17795ab61" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -9979,6 +10698,11 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "e2c1e0e6-6ab3-4f2b-ade9-f15e871bf24c" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "e2eff98e-38e0-4361-84b8-96b8a1f288b2" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -9986,6 +10710,16 @@
          },
          "e332c7f6-ef8a-4b9d-a16d-b2a5ba64a505" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "e3b7619e-26fc-4480-b137-b00def779807" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "e40d67e7-41ec-4167-a561-9407a1a90b9d" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -10032,6 +10766,11 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "e955524a-a71c-4e30-acf0-9fe801e94a59" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "e9c1ab66-abb6-45b0-9ed6-886bf3f7ee59" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -10077,6 +10816,16 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
          },
+         "ec84fb2d-91ea-4702-8a08-b1b801f7d61c" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "ecc8f0fb-174d-48a1-b657-da0f3b68caff" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "ed8274b2-91c6-47ac-899b-4c96a85ce8f7" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -10103,8 +10852,18 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "eefa8fd8-55b4-48c2-b006-e0ebc2ecc3cf" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "efbee45a-c048-4341-a221-e2ac3c39961c" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "f035c6da-ddce-42f4-a314-ccd718db4067" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -10133,6 +10892,16 @@
          },
          "f09a2ced-f93a-49b3-9adf-24f6f45fd7fe" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "f0a30cd7-d38f-4b65-92c2-55a6b2b54d6a" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "f0aa2e36-eac9-45b1-b91e-b9a0466703aa" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -10176,10 +10945,21 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_top"
          },
+         "f319cc48-fff7-4b6d-b1e9-bc8415c4125f" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "f3748951-443d-464a-9ae3-d3ee72bd5397" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "storeOffer"
+         },
+         "f3a04f1d-eefb-43e2-96f0-5f5b15b3cc89" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_head"
          },
          "f3e31205-c6b9-4c6b-b261-2b49a326a9fe" : {
             "date" : "2021-05-02",
@@ -10189,6 +10969,11 @@
          },
          "f412db58-332e-44c5-9111-6a7c96648806" : {
             "date" : "2021-05-02",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "f43b8fc8-6d12-4e92-acdb-4b4fe5eba914" : {
+            "date" : "2021-05-05",
             "isNew" : true,
             "offerType" : "storeOffer"
          },
@@ -10269,6 +11054,16 @@
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
          },
+         "f8a7b7cd-1291-484e-8a59-e04579d3bf6d" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
+         "f8bf1d37-f079-4216-9f3d-40ed05ef68e4" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "f8e3a671-49ae-4eff-9c44-c41ea3b3758f" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -10317,6 +11112,12 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "fa7fa7ad-c751-408e-8093-5dd0cb2551df" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "personaOffer",
+            "pieceType" : "persona_bottom"
+         },
          "fa8e4c37-d20f-431f-a6a1-e4d0cc87214f" : {
             "date" : "2021-05-02",
             "isNew" : true,
@@ -10351,11 +11152,21 @@
             "isNew" : true,
             "offerType" : "storeOffer"
          },
+         "fda27e31-5c38-49cb-866e-6a8af5a48a8b" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
+         },
          "fe196d4c-8f88-4e85-b946-8614a3dd4854" : {
             "date" : "2021-05-02",
             "isNew" : true,
             "offerType" : "personaOffer",
             "pieceType" : "persona_head"
+         },
+         "fe29b638-f901-4d5e-8d61-615decadc9c1" : {
+            "date" : "2021-05-05",
+            "isNew" : true,
+            "offerType" : "storeOffer"
          },
          "fe6c6125-3c9a-4ef9-837e-b807a5e1ab0a" : {
             "date" : "2021-05-02",
@@ -10376,12 +11187,7 @@
          "45075ccb-d7de-4c59-9a2b-3631218d2e2a" : null,
          "48d207c8-404f-442b-82e7-075cbba631f4" : null,
          "4a590e07-d444-42c9-8444-90249b4d2f9b" : null,
-         "5153912b-e5aa-43e8-9457-ca20ff310527" : {
-            "days_before_reminding" : 0,
-            "last_date_shown_toast" : 1619921988,
-            "max_number_of_times_to_show" : 0,
-            "times_shown_toast" : 1
-         },
+         "5153912b-e5aa-43e8-9457-ca20ff310527" : null,
          "5b3c0e33-1bc5-4f5d-a93e-593bca81e565" : null,
          "608c1536-c417-480b-a432-a88b2d0efaa9" : null,
          "62194aa0-e67d-4266-8836-d2117044e269" : null,
